@@ -30,6 +30,22 @@
 ## 📷 Demostração
 
 ## ⚙️ Instalação
+Clone o repositório.
+~~~
+git clone https://github.com/vian4dev/ignite-feed.git
+~~~
+Acesse o diretório do projeto.
+~~~
+cd ignite-feed.
+~~~
+Instale as dependências.
+~~~
+npm install
+~~~
+Execute a aplicação.
+~~~
+npm run dev
+~~~
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
