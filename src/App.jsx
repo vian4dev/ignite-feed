@@ -10,9 +10,9 @@ const posts = [
   {
     id: 1,
     author : {
-      avatarUrl: 'https://github.com/vian4dev.png',
-      name: 'Gabriel Viana',
-      role: 'Developer'
+      avatarUrl: 'https://github.com/diego3g.png',
+      name: 'Diego Fernandes',
+      role: 'CTO @Rocketseat'
     },
     content: [
       {type: 'paragraph', content: 'Fala galeraa 👋',},      
@@ -29,8 +29,8 @@ const posts = [
       role: 'Educator @Rocketseat'
     },
     content: [
-      {type: 'paragraph', content: 'Fala galeraa 👋',},      
-      {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
+      {type: 'paragraph', content: ' Faaaaala dev,👋',},      
+      {type: 'paragraph', content: 'No DevLinks você tem acesso a um aprendizado gratuito e de alta qualidade para conhecer o universo da programação, dominar os fundamentos e decolar nesse universo.'},
       {link: 'link', content: 'jane.design/doctorcare'},
     ],
     publishedAt: new Date('2023-02-19 15:14:00'),
