@@ -37,7 +37,7 @@ Aplicação desenvolvida na nova Trilha Ignite de React da Rocketseat, utilizand
 
 ## 📷 Demostração
 <div align="center">
-  <img src="https://i.ibb.co/S3RHYqn/ignite-feed.png" alt="Ignite Feed" border="0">
+  <img src="https://i.ibb.co/N9w81wg/ignite-feed.png" alt="Ignite Feed" border="0">
 </div>
 
 ## ⚙️ Instalação
