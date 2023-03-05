@@ -47,7 +47,7 @@ git clone https://github.com/vian4dev/ignite-feed.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd ignite-feed
+cd ignite-feed/
 ~~~
 Instale as dependências.
 ~~~
