@@ -24,7 +24,7 @@
 # Ignite Feed
 
 ## ✒️ Descrição
-Aplicação desenvolvida na nova Trilha Ignite de React da Rocketseat, utilizando conceitos e ferramentas importantes do ecossistema React. O propósito dessa aplicação e ser um feed que possamos interagir por comentários.
+Aplicação desenvolvida na nova _Trilha Ignite_ de React da Rocketseat, utilizando conceitos e ferramentas importantes do ecossistema React. O propósito dessa aplicação e ser um feed que possamos interagir por comentários.
 
 ## 🚀 Tecnologias utilizadas
 <div style="display: inline_block"><br>
