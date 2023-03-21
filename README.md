@@ -40,7 +40,7 @@ Aplicação desenvolvida na nova _Trilha Ignite_ de React da Rocketseat, utiliza
   <img src="https://i.ibb.co/N9w81wg/ignite-feed.png" alt="Ignite Feed" border="0">
 </div>
 
-## ⚙️ Instalação
+## 🔥 Instalação
 Clone o repositório.
 ~~~
 git clone https://github.com/vian4dev/ignite-feed.git
